@@ -12,5 +12,9 @@
   "compatibility": {
     "minimum": "11",
     "verified": "11"
-  }
+  },
+  "url": "https://github.com/SpaceOtter99/wall-slope",
+  "manifest": "https://github.com/SpaceOtter99/wall-slope/raw/refs/heads/main/module.json",
+  "download": "https://github.com/SpaceOtter99/wall-slope/archive/refs/heads/main.zip"
+
 }
