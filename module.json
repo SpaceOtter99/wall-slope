@@ -1,0 +1,15 @@
+{
+  "name": "wall-slope",
+  "title": "Wall Slopes",
+  "description": "Blocks vision based on sloping walls",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Heather",
+    }
+  ],
+  "esmodules": ["scripts/wall-slope.js"],
+  "compatibleCoreVersion": "11",
+  "minimumCoreVersion": "11",
+  "manifest": "module.json"
+}
