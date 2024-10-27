@@ -11,5 +11,5 @@
   "esmodules": ["scripts/wall-slope.js"],
   "compatibleCoreVersion": "11",
   "minimumCoreVersion": "11",
-  "manifest": "module.json"
+  "manifest": "https://raw.githubusercontent.com/SpaceOtter99/wall-slope/refs/heads/main/module.json"
 }
