@@ -12,7 +12,7 @@ Hooks.on("init", () => {
   Hooks.on("renderWallConfig", (app, html, data) => {
     const heightInput = `<div class="form-group">
         <label>Height</label>
-        <input type="number" name="height" value="${data.object.height || 1}" data-dtype="Number" />
+        <input type="number" name="flags.wall-slope.height" value="${data.document.flags['wall-slope']?.height ?? 1}" data-dtype="Number" />
       </div>`;
     html.find('div.form-group').last().after(heightInput);
   });
